@@ -1,5 +1,5 @@
 # ClatScribe
-ClatScribe is a speech-to-text tool that captures real-time audio, transcribes 3-second chunks via OpenAI API, timestamps and logs the text. The 3 second audio files are deleted after the newest file is written, so it does not take up lots of space. It has a CLI and a GUI.
+ClatScribe is a speech-to-text tool that captures real-time audio, transcribes 3-second chunks via OpenAI API, timestamps and logs the text. The 3 second audio files are deleted after the newest file is written, so it does not take up lots of space. It has a CLI and a GUI. The outputs are optimized for transcribing audio from 1 person at a time, with no requirement for fast transcription. Because of the way the OpenAI transcribing models work, there will be a lag. If you'd like a tool that is quicker and outputs word per word instead of in chunks, check out ClatScribe 2.0 at github.com/clats97/clatscribe2.0 which uses the Google Transcription API.
 
 # Speech-to-Text & Transcription Tool (Version 1.00)
 
