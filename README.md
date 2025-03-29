@@ -54,7 +54,7 @@ This command-line & graphical user interface speech-to-text transcription tool c
 
 Ensure you have Python installed. Then install the required third-party modules using pip:
 
-pip install numpy sounddevice soundfile openai
+pip install numpy sounddevice soundfile openai==0.28 **YOU MUST USE 0.28 OR IT WILL NOT WORK**
 
 ---
 
