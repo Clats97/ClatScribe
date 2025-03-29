@@ -5,7 +5,8 @@ ClatScribe is a speech-to-text tool that captures real-time audio, transcribes 3
 
 CLI: ![Screenshot 2025-03-28 211432](https://github.com/user-attachments/assets/99cdff08-ceef-4e71-8113-9e0b2faff776)
 
-GUI: ![Screenshot 2025-03-25 184536](https://github.com/user-attachments/assets/6489ee50-660c-4d37-abde-f7de6f3b26cf)
+GUI: ![Screenshot 2025-03-28 211141](https://github.com/user-attachments/assets/9b10157b-e080-46ae-9c9d-961a81864a52)
+
 
 **By Joshua M Clatney - Ethical Pentesting Enthusiast**
 
